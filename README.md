@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Hey guys I am DooomiT a professional DevOps Engineer
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dooomit&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
+</div>
+<div align="center">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dooomit&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=dooomit&theme=dark&line_height=40">
+  </div>
+</div>
 
-<!--
-**DooomiT/dooomit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on DevOps and fun stuff, hopefully everyone will use actions soon
+- 🌱 I’m currently learning TypeScript && Go
+- 👯 I’m looking to collaborate on stuff that is worth my time and changes the future
+- 💬 Ask me about anything, although I might be a good contact about DevOps stuff
+- 📫 How to reach me: Add me as a reviewer to your Issue / mention me in a comment
+- ⚡ Fun fact: I'm wasting ~20% of my working hours reading through [daily.dev](https://daily.dev/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
