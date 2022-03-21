@@ -1,4 +1,5 @@
-### 👋 Hey guys I am DooomiT a professional DevOps Engineer
+<h3 align="center"> 👋 Hey guys I am DooomiT a professional DevOps Engineer </h3> 
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dooomit&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
 </div>
