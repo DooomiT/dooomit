@@ -5,8 +5,8 @@
 </div>
 <div align="center">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dooomit&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api?username=dooomit&theme=dark&line_height=40">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dooomit&langs_count=5&hide=html,tex,jupyter notebook&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=dooomit&count_private=true&theme=dark&line_height=40">
   </div>
 </div>
 
