@@ -19,4 +19,4 @@
 ### 👯 I’m looking to collaborate on stuff that is worth my time and changes the future
 ### 💬 Ask me about anything, although I might be a good contact about DevOps stuff
 ### 📫 How to reach me: Add me as a reviewer to your Issue / mention me in a comment
-### ⚡ Fun fact: I'm love reading through [daily.dev](https://daily.dev/)
+### ⚡ Fun fact: I love reading through [daily.dev](https://daily.dev/)
